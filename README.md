@@ -1,6 +1,6 @@
 # SOC Honeypot Project Report
 
-**Author:** Obakeng Shuma  
+
 **Platform:** Microsoft Azure  
 **Project:** Cloud-Based Honeypot for Threat Analysis & Incident Response
 
